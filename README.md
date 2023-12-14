@@ -1,22 +1,17 @@
-# The Software Essentialist (Course Projects Repo)
+# The Software Essentialist (Official Course Repo)
 
 > The official course repo for [The Software Essentialist](https://essentialist.dev/) course students.
 
 ## What is this
 
-This is the repo that we'll use to work on assignments throughout the program.
+This is the course repo which houses all of the assignment start/end checkpoints, labs & exercises we'll use in the program.
 
 ## How to get started?
 - Install Git
 - Install Node v16 or higher on your machine
 - Git clone or fork this repo
 
-## How to work effectively
-
-- When working on a module, cd directly into that module and open up your Visual Studio Code (or respective editor) to show only that module so that you get code completion.
-- [Use the Red-Green-Refactor Commit process](https://ardalis.com/rgrc-is-the-new-red-green-refactor-for-test-first-development/) to track your work and provide for the ability for you to revert back and try new designs
-
-## After completing an assignment (how to improve)
+## After completing an assignment or exercise (how to improve)
 
 ### 1. Watch the demonstration modules
 
@@ -24,8 +19,8 @@ This is the repo that we'll use to work on assignments throughout the program.
 
 ### 2. Get feedback on your work
 
-- **First, get the assignment hashtag**: Each assignment has a hashtag to uniquely identify it (ie: #palindromeChecker). You can find this in the readme for each assignment. Grab this.
-- **Then, get your start/end commits**: Your commits to GitHub and then navigate to the 'Commits' page. Find the commits that mark the start and end of the assignment you want to review.
+- **First, get the assignment hashtag**: Each assignment has a hashtag to identify it (ie: #palindromeChecker) uniquely. You can find this in the readme for each assignment and exercise. Grab this.
+- **Create  PR**: Create a PR containing your commits for an assignment or exercise. 
 - **Finally, submit for feedback**: Post to [#course-chat](https://discord.com/channels/997940575590416435/1074124524632674335) for feedback from myself, the alumni, and the other community members.
 
 Here's an example:

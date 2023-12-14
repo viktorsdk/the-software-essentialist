@@ -37,7 +37,7 @@ Here's an example:
 - **Get to the Discord**: Go into the [#course-chat](https://discord.com/channels/997940575590416435/1074124524632674335) channel.
 - **Find other submissions**: Use the assignment hashtag name to find other submissions. While in the channel, you can use CMD/CTRL + F to bring up the finder in Discord. Type in the hashtag to find other submissions. Find one and pull it up.
 - **Two things they did well**: Read through their commits, from the starting one and look for 2 things you think they did well. Leave a comments to start a discussion.
-- **Two things you found interesting or might do differently & why**: Look for 2 parts of their design you either found interesting and start a discussion or comment how you might have implemented things differently. Feel free to tag Khalil (@stemmlerjs), Daniel (@iPwnPancakes), or Tony (@TonyToth) for comments as well.
+- **Two things you found interesting or might do differently & why**: Look for 2 parts of their design you either found interesting and start a discussion or comment how you might have implemented things differently. 
 
 ### 4. Design it twice (do it again)
 
